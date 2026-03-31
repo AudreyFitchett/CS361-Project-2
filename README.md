@@ -25,7 +25,7 @@ To compile the provided JUnit test class on onyx, use:
 $ javac -cp .:/usr/share/java/junit.jar ./test/nfa/NFATest.java
 
 To run the provided JUnit tests on onyx, use:
-$ java -cp .:/usr/share/java/junit.jar:/usr/share/java/hamcrest/core.jar org.junit.runner.JUnitCore test.nfa.NFATest
+$ java -cp .:/usr/share/java/junit.jar:/usr/share/java/hamcrest/hamcrest.jar org.junit.runner.JUnitCore test.nfa.NFATest
 
 The program does not require interactive console input. The JUnit output reports whether the NFA implementation passes the required tests.
 

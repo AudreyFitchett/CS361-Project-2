@@ -70,6 +70,7 @@ EXTRA CREDIT:
 No extra credit was attempted.
 
 SOURCES:
+Project 1 of this class
 https://www.w3schools.com/java/java_hashmap.asp  
 https://www.w3schools.com/java/java_hashset.asp 
 Calvin: I needed to review these articles AGAIN. I wonder if there will ever be a time when I do not need to brush up on java hashsets and maps before using them. 
